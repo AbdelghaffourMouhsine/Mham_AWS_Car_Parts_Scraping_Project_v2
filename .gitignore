@@ -1,0 +1,20 @@
+# Ignorer les dossiers suivantes
+<<<<<<< HEAD
+
+.ipynb_checkpoints/
+__pycache__/
+results_0/
+results_1/
+results_2/
+images/
+=======
+.ipynb_checkpoints/
+__pycache__/
+results/
+results_0/
+results_1/
+results_2/
+images/
+
+work_on_products_without_img_price/
+>>>>>>> 6978968 (last version)

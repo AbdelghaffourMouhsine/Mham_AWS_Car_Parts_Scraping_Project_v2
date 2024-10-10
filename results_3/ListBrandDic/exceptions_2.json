@@ -1,0 +1,18 @@
+[
+    {
+        "start_brand": "TOYOTA",
+        "start_year": "2015",
+        "start_model": "AVANZA",
+        "end_brand": "TOYOTA",
+        "end_year": "2015",
+        "end_model": "AVANZA"
+    },
+    {
+        "start_brand": "TOYOTA",
+        "start_year": "2015",
+        "start_model": "TACOMA",
+        "end_brand": "TOYOTA",
+        "end_year": "2015",
+        "end_model": "TACOMA"
+    }
+]

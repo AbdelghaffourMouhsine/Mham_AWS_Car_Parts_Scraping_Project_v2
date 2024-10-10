@@ -1,0 +1,127 @@
+﻿thread_id,exception,brand_dic,proxy
+15,"Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: cannot process extension #1
+from unknown error: cannot unzip 
+Host info: host: 'd8bb249778aa', ip: '172.18.0.4'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Stacktrace:
+    at org.openqa.selenium.grid.node.remote.RemoteNode.newSession (RemoteNode.java:152)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.startSession (LocalDistributor.java:651)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.newSession (LocalDistributor.java:570)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.handleNewSessionRequest (LocalDistributor.java:830)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.lambda$run$1 (LocalDistributor.java:790)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1128)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:628)
+    at java.lang.Thread.run (Thread.java:829)","{'start_brand': 'BMW', 'start_year': '2020', 'start_model': 'M240I', 'start_elem_X': '3.0L L6 Turbocharged', 'start_elem_XX': 'Electrical', 'start_part_name': 'Battery Cable', 'end_brand': 'BMW', 'end_year': '2020', 'end_model': 'M240I', 'end_elem_X': '3.0L L6 Turbocharged', 'end_elem_XX': 'Electrical', 'end_part_name': 'Battery Cable'}","{'PROXY_HOST': '154.73.250.19', 'PROXY_PORT': '5920', 'PROXY_USER': 'yedzvwaz', 'PROXY_PASS': '5es5islnfwxo'}"
+11,"Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: cannot process extension #1
+from unknown error: cannot extract magic number 
+Host info: host: 'd8bb249778aa', ip: '172.18.0.4'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Stacktrace:
+    at org.openqa.selenium.grid.node.remote.RemoteNode.newSession (RemoteNode.java:152)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.startSession (LocalDistributor.java:651)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.newSession (LocalDistributor.java:570)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.handleNewSessionRequest (LocalDistributor.java:830)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.lambda$run$1 (LocalDistributor.java:790)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1128)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:628)
+    at java.lang.Thread.run (Thread.java:829)","{'start_brand': 'BMW', 'start_year': '2020', 'start_model': '228I', 'start_elem_X': '2.0L L4 Turbocharged', 'start_elem_XX': 'Wiper & Washer', 'start_part_name': 'Windshield Washer Pump', 'end_brand': 'BMW', 'end_year': '2020', 'end_model': '228I', 'end_elem_X': '2.0L L4 Turbocharged', 'end_elem_XX': 'Wiper & Washer', 'end_part_name': 'Windshield Washer Pump'}","{'PROXY_HOST': '161.123.152.16', 'PROXY_PORT': '6261', 'PROXY_USER': 'yedzvwaz', 'PROXY_PASS': '5es5islnfwxo'}"
+15,"Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: cannot process extension #1
+from unknown error: cannot extract magic number 
+Host info: host: 'd8bb249778aa', ip: '172.18.0.4'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Stacktrace:
+    at org.openqa.selenium.grid.node.remote.RemoteNode.newSession (RemoteNode.java:152)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.startSession (LocalDistributor.java:651)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.newSession (LocalDistributor.java:570)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.handleNewSessionRequest (LocalDistributor.java:830)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.lambda$run$1 (LocalDistributor.java:790)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1128)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:628)
+    at java.lang.Thread.run (Thread.java:829)","{'start_brand': 'BMW', 'start_year': '2020', 'start_model': '530I', 'start_elem_X': '2.0L L4 Turbocharged', 'start_elem_XX': 'Engine', 'start_part_name': 'Oil Pan Gasket', 'end_brand': 'BMW', 'end_year': '2020', 'end_model': '530I', 'end_elem_X': '2.0L L4 Turbocharged', 'end_elem_XX': 'Engine', 'end_part_name': 'Oil Pan Gasket'}","{'PROXY_HOST': '154.73.250.19', 'PROXY_PORT': '5920', 'PROXY_USER': 'yedzvwaz', 'PROXY_PASS': '5es5islnfwxo'}"
+13,"Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: cannot process extension #1
+from unknown error: cannot unzip 
+Host info: host: 'd8bb249778aa', ip: '172.18.0.4'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Stacktrace:
+    at org.openqa.selenium.grid.node.remote.RemoteNode.newSession (RemoteNode.java:152)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.startSession (LocalDistributor.java:651)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.newSession (LocalDistributor.java:570)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.handleNewSessionRequest (LocalDistributor.java:830)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.lambda$run$1 (LocalDistributor.java:790)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1128)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:628)
+    at java.lang.Thread.run (Thread.java:829)","{'start_brand': 'BMW', 'start_year': '2019', 'start_model': 'I3', 'start_elem_X': '647cc L2 ELECTRIC/GAS', 'start_elem_XX': 'Brake & Wheel Hub', 'start_part_name': 'Brake Pad', 'end_brand': 'BMW', 'end_year': '2019', 'end_model': 'I3', 'end_elem_X': '647cc L2 ELECTRIC/GAS', 'end_elem_XX': 'Brake & Wheel Hub', 'end_part_name': 'Brake Pad'}","{'PROXY_HOST': '161.123.152.21', 'PROXY_PORT': '6266', 'PROXY_USER': 'yedzvwaz', 'PROXY_PASS': '5es5islnfwxo'}"
+9,"Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: cannot process extension #1
+from unknown error: cannot extract magic number 
+Host info: host: 'd8bb249778aa', ip: '172.18.0.4'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Stacktrace:
+    at org.openqa.selenium.grid.node.remote.RemoteNode.newSession (RemoteNode.java:152)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.startSession (LocalDistributor.java:651)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.newSession (LocalDistributor.java:570)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.handleNewSessionRequest (LocalDistributor.java:830)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.lambda$run$1 (LocalDistributor.java:790)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1128)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:628)
+    at java.lang.Thread.run (Thread.java:829)","{'start_brand': 'BMW', 'start_year': '2007', 'start_model': '330I', 'start_elem_X': '3.0L L6', 'start_elem_XX': 'Engine', 'start_part_name': 'Crankshaft Main Bearing', 'end_brand': 'BMW', 'end_year': '2007', 'end_model': '330I', 'end_elem_X': '3.0L L6', 'end_elem_XX': 'Engine', 'end_part_name': 'Crankshaft Main Bearing'}","{'PROXY_HOST': '154.73.250.136', 'PROXY_PORT': '6037', 'PROXY_USER': 'yedzvwaz', 'PROXY_PASS': '5es5islnfwxo'}"
+7,"Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: cannot process extension #1
+from unknown error: cannot extract magic number 
+Host info: host: 'd8bb249778aa', ip: '172.18.0.4'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1016-aws', java.version: '11.0.21'
+Driver info: driver.version: unknown
+Stacktrace:
+    at org.openqa.selenium.grid.node.remote.RemoteNode.newSession (RemoteNode.java:152)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.startSession (LocalDistributor.java:651)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor.newSession (LocalDistributor.java:570)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.handleNewSessionRequest (LocalDistributor.java:830)
+    at org.openqa.selenium.grid.distributor.local.LocalDistributor$NewSessionRunnable.lambda$run$1 (LocalDistributor.java:790)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1128)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:628)
+    at java.lang.Thread.run (Thread.java:829)","{'start_brand': 'BMW', 'start_year': '2005', 'start_model': '760I', 'start_elem_X': '6.0L V12', 'start_elem_XX': 'Brake & Wheel Hub', 'start_part_name': 'Rotor & Brake Pad Kit', 'end_brand': 'BMW', 'end_year': '2005', 'end_model': '760I', 'end_elem_X': '6.0L V12', 'end_elem_XX': 'Brake & Wheel Hub', 'end_part_name': 'Rotor & Brake Pad Kit'}","{'PROXY_HOST': '154.73.250.180', 'PROXY_PORT': '6081', 'PROXY_USER': 'yedzvwaz', 'PROXY_PASS': '5es5islnfwxo'}"
