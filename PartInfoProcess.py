@@ -20,10 +20,6 @@ import random
 from Part import Part
 from PartStorage import PartStorage
 from CheckPartStorage import CheckPartStorage
-<<<<<<< HEAD
-
-=======
->>>>>>> 6978968 (last version)
 from ListeBrandDic import ListeBrandDic
 
 class PartInfoProcess:
